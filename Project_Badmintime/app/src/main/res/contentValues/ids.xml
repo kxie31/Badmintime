@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mainView" type="id" />
+    <item name="eventList" type="id" />
+    <item name="deletedeventList" type="id" />
+</resources>

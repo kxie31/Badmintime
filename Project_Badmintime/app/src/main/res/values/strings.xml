@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_name">channel1</string>
+    <string name="channel_description">channel_description</string>
+    <string name="app_name">Badmintime</string>
+    <string name="ThisWeekListTitle">This week\'s events</string>
+    <string name="NextWeekListTitle">No events this week</string>
+    <dimen name="buttomList">80dp</dimen>
+    <dimen name="buttomButton">10dp</dimen>
+</resources>
